@@ -14,6 +14,7 @@
   "dependencies": {
     "acorn": "^6.0.5",
     "ansi-colors": "^3.2.3",
+    "axios": "^0.19.0",
     "basic-auth": "^2.0.0",
     "basic-auth-connect": "^1.0.0",
     "body-parser": "^1.14.1",
@@ -55,5 +56,21 @@
     "jest": "^24.0.1",
     "standard": "^12.0.1",
     "supertest": "^3.0.0"
-  }
+  },
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichGibbons/Workflow-Index.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichGibbons/Workflow-Index/issues"
+  },
+  "homepage": "https://github.com/RichGibbons/Workflow-Index#readme"
 }
