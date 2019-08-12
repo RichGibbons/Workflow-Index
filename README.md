@@ -1,1 +1,0 @@
-# ucd-index-template

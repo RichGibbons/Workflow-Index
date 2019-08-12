@@ -1,4 +1,4 @@
- // Core dependencies
+// Core dependencies
 const path = require('path')
 
 // NPM dependencies
